@@ -604,6 +604,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
 - [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early access
 - [Generative AI Data Analytics](https://www.manning.com/books/generative-ai-for-data-analytics) - Early access
+- [Acing the Data Science Interview](https://www.manning.com/books/acing-the-data-science-interview) - Early Access
 
 #### Book Deals (Affiliated) 🛍
 
